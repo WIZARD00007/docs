@@ -1,3 +1,4 @@
+Wizz project
 ---
 title: Working with the RubyGems registry
 intro: 'You can configure RubyGems to publish a package to {% data variables.product.prodname_registry %} and to use packages stored on {% data variables.product.prodname_registry %} as dependencies in a Ruby project with Bundler.'
